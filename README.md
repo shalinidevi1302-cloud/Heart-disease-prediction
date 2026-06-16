@@ -21,4 +21,12 @@ A Machine Learning project developed using **Python** to predict whether a perso
 
 #### 🎯 Outcome
 
-Helps in the early detection of heart disease by analyzing patient health data and providing accurate predictions. 
+Helps in the early detection of heart disease by analyzing patient health data and providing accurate predictions.
+
+SCREENSHOT OF DATASET
+<img width="1600" height="601" alt="WhatsApp Image 2026-06-16 at 3 39 10 PM" src="https://github.com/user-attachments/assets/c2dd4126-4ba4-4c1a-9f12-a78eb565929f" />
+<img width="1600" height="602" alt="WhatsApp Image 2026-06-16 at 3 39 32 PM" src="https://github.com/user-attachments/assets/edc194cf-1536-4ff0-be4b-2867fa3a9fa2" />
+
+
+  SCREENSHOT OF CODE
+  <img width="1422" height="713" alt="WhatsApp Image 2026-06-16 at 3 40 40 PM" src="https://github.com/user-attachments/assets/98ead69b-7089-4b9a-bc64-40152d385ac1" />
