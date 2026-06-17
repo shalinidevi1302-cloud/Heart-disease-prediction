@@ -32,4 +32,10 @@ SCREENSHOT OF DATASET
   <img width="1422" height="713" alt="WhatsApp Image 2026-06-16 at 3 40 40 PM" src="https://github.com/user-attachments/assets/98ead69b-7089-4b9a-bc64-40152d385ac1" />
   <img width="1461" height="596" alt="WhatsApp Image 2026-06-16 at 4 00 55 PM" src="https://github.com/user-attachments/assets/39971335-3ce8-4552-b05c-3aacd979c770" />
 
+Cleaned data 
+<img width="1022" height="528" alt="WhatsApp Image 2026-06-17 at 2 27 32 PM" src="https://github.com/user-attachments/assets/eedc59c4-b05f-4566-80d6-42839fb0763f" />
+
+Statistical Summary 
+<img width="1153" height="750" alt="WhatsApp Image 2026-06-17 at 2 27 56 PM" src="https://github.com/user-attachments/assets/893db576-6a22-47b7-bbba-67dd175dbb11" />
+
 
