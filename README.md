@@ -1,27 +1,57 @@
-# Heart-disease-prediction
-AI based Heart Disease Prediction System
-###  Heart Disease Prediction System
+# Heart Disease Prediction
+
+## AI-Based Heart Disease Prediction System
+
+### Heart Disease Prediction System
 
 A Machine Learning project developed using **Python** to predict whether a person is at risk of heart disease based on medical data.
 
-#### ✨ Features
+## Features
 
-🔍 Predicts Heart Disease Risk
-📊 Data Visualization with Charts
-🤖 Machine Learning-based Prediction
-🎯 Simple and User-Friendly
+* Predicts heart disease risk
+* Data visualization using charts
+* Machine Learning-based prediction
+* Simple and user-friendly system
 
-#### 🛠️ Tech Stack
+## Tech Stack
 
-🐍 Python
-🐼 Pandas & NumPy
-📈 Matplotlib & Seaborn
-🤖 Scikit-learn
-📓 Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
 
-#### 🎯 Outcome
+## Project Workflow
 
-Helps in the early detection of heart disease by analyzing patient health data and providing accurate predictions.
+```text
+Medical Dataset
+       ↓
+Data Preprocessing
+       ↓
+Exploratory Data Analysis
+       ↓
+Data Visualization
+       ↓
+Feature Selection
+       ↓
+Machine Learning Model
+       ↓
+Model Training
+       ↓
+Heart Disease Prediction
+```
+
+## Outcome
+
+The system analyzes patient health data and uses a Machine Learning model to predict whether the input data indicates a risk of heart disease.
+
+> Note: This project is intended for educational purposes and should not be used as a substitute for professional medical diagnosis.
+
+## Author
+
+**Shalini Devi**
 
 SCREENSHOT OF DATASET
 <img width="1600" height="601" alt="WhatsApp Image 2026-06-16 at 3 39 10 PM" src="https://github.com/user-attachments/assets/c2dd4126-4ba4-4c1a-9f12-a78eb565929f" />
